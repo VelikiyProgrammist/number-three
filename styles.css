@@ -1,0 +1,141 @@
+header {
+    color: whitesmoke;
+    align-items: center;
+    display: flex;
+}
+.header{
+    width: 500px;
+    height: 100px;
+    font-family: monospace;
+}
+.links{
+    width: 500px;
+    height: 23px;
+}
+body {
+    text-align: center;
+     margin: 0; 
+     background: black;     
+}
+h1{
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.Photo{
+    margin-right: 50px;
+    width: 500px;
+    height: 350px;
+    display: flex;
+}
+nav{
+    text-align: center;
+    width: 500px;
+    height: 23px;
+}
+.linkheadache{
+    font-size:20px;
+    background-color: rgba(255, 119, 0, 0.975);
+    text-decoration: none;
+    color: white;
+}
+.linksearch{
+    font-size:20px;
+    background-color: rgba(255, 119, 0, 0.975);
+    text-decoration: none;
+    color: white;
+}
+.linkhealp{
+    font-size:20px;
+    background-color: rgba(255, 119, 0, 0.975);
+    text-decoration: none;
+    color: white;
+}
+.linkcontacts{
+    font-size:20px;
+    background-color: rgba(255, 119, 0, 0.975);
+    text-decoration: none;
+    color: white;
+}
+
+.bluebox{
+    background-color: blue;
+    text-align: justify ;
+    color: white;
+    height: 60%;
+}
+.headachetext  {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 60px;
+    padding: 20px;
+}
+.more{
+    width: 80%;
+    display: flex;
+}
+.less{
+    color: white;
+    width: 20%;
+    display: flex;  
+}
+.allheadache{
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    line-height: 30px;
+    border: 15px orange;
+    width: 180px;
+    height: 330px;
+}
+.headache{
+    display: flex;
+    justify-content: space-between
+}
+.headachetext{
+    color: white;
+    font-family:monospace;
+    padding-bottom: 0%;
+    text-align: left;
+}
+.text{
+    color: white;
+    padding-right: 90px;
+    padding-left: 60px;
+    font-family:monospace;
+    text-align: left;
+}
+.logofooter{
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+.facebook{
+    width: 40px;
+    height: 40px;
+}
+.twitter{
+    width: 40px;
+    height: 40px;
+}
+.instagram{
+    width: 40px;
+    height: 40px;   
+}
+.perf{
+    color: white;
+}
+
+
+
+
+
+
+
