@@ -3,24 +3,23 @@ header {
     align-items: center;
     display: flex;
 }
-.header{
-    width: 500px;
-    height: 100px;
-    font-family: monospace;
+header{
+    background: black;
 }
-.links{
-    width: 500px;
-    height: 23px;
+.header{
+    font-family: monospace;
+    
+}
+.head{
+    display: flex;
+    align-items: center
 }
 body {
-    text-align: center;
-     margin: 0; 
-     background: black;     
+    
+     margin: 0;     
 }
 h1{
-    display: flex;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    align-items: center;
 
 }
 .logo{
@@ -31,38 +30,14 @@ h1{
     margin-right: 50px;
     width: 500px;
     height: 350px;
-    display: flex;
 }
-nav{
-    text-align: center;
-    width: 500px;
-    height: 23px;
-}
-.linkheadache{
+.link{
     font-size:20px;
     background-color: rgba(255, 119, 0, 0.975);
     text-decoration: none;
     color: white;
+    padding: 5px;
 }
-.linksearch{
-    font-size:20px;
-    background-color: rgba(255, 119, 0, 0.975);
-    text-decoration: none;
-    color: white;
-}
-.linkhealp{
-    font-size:20px;
-    background-color: rgba(255, 119, 0, 0.975);
-    text-decoration: none;
-    color: white;
-}
-.linkcontacts{
-    font-size:20px;
-    background-color: rgba(255, 119, 0, 0.975);
-    text-decoration: none;
-    color: white;
-}
-
 .bluebox{
     background-color: blue;
     text-align: justify ;
@@ -81,7 +56,7 @@ nav{
     display: flex;
 }
 .less{
-    color: white;
+    
     width: 20%;
     display: flex;  
 }
@@ -99,14 +74,10 @@ nav{
     display: flex;
     justify-content: space-between
 }
-.headachetext{
-    color: white;
-    font-family:monospace;
-    padding-bottom: 0%;
-    text-align: left;
-}
+
+
 .text{
-    color: white;
+    color: black;
     padding-right: 90px;
     padding-left: 60px;
     font-family:monospace;
@@ -130,7 +101,10 @@ nav{
     height: 40px;   
 }
 .perf{
-    color: white;
+    color: black;
+}
+footer{
+    text-align: center;
 }
 
 
