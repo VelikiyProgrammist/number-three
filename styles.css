@@ -42,7 +42,7 @@ h1{
     background-color: blue;
     text-align: justify ;
     color: white;
-    height: 60%;
+    height: 400px;
 }
 .headachetext  {
     color: white;
@@ -56,7 +56,6 @@ h1{
     display: flex;
 }
 .less{
-    
     width: 20%;
     display: flex;  
 }
@@ -66,9 +65,10 @@ h1{
 }
 .list{
     line-height: 30px;
-    border: 15px orange;
     width: 180px;
     height: 330px;
+    list-style-type: none;
+    
 }
 .headache{
     display: flex;
@@ -88,18 +88,11 @@ h1{
     width: 100px;
     height: 100px;
 }
-.facebook{
+.icon{
     width: 40px;
     height: 40px;
-}
-.twitter{
-    width: 40px;
-    height: 40px;
-}
-.instagram{
-    width: 40px;
-    height: 40px;   
-}
+} 
+
 .perf{
     color: black;
 }
